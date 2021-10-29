@@ -1,0 +1,6 @@
+1) installer tous les packets avec la commande "npm install "
+2) ensuite la commande "expo start" pour lancer l'affichage sur web simulateur android ou ios 
+pour la simulation android installer android studio 
+3)lancer la commande "json-server --watch db.json" pour lancer le server json et ainsi rentrer les informations dans la db 
+via le formulaire d'inscritpion 
+
