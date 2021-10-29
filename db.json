@@ -1,0 +1,41 @@
+{
+  "entreprises": [
+    {
+      "id": 1,
+      "nom": "test",
+      "email": "test@gmail.com",
+      "telephone": "04 76 25 78 15",
+      "domaine": "mode",
+      "password": "test",
+      "password_repeat": "test"
+    }
+  ],
+  "influenceur": [
+    {
+      "id": 1,
+      "nom": "aaaa",
+      "email": "aaaaa@gmail.com",
+      "telephone": "0688888888",
+      "domaine": "test2",
+      "password": "test2",
+      "password_repeat": "test2"
+    },
+    {
+      "nom": "zeraert",
+      "email": "zertzert",
+      "telephone": "zertzert",
+      "domaine": "zertzert",
+      "password": "zertzert",
+      "password_repeat": "zertzert",
+      "id": 2
+    },
+    {
+      "email": "qsdf",
+      "telephone": "qsdf",
+      "domaine": "qsdf",
+      "password": "sdf",
+      "password_repeat": "fqsdf",
+      "id": 3
+    }
+  ]
+}

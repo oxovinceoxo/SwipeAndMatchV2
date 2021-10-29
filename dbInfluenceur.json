@@ -1,0 +1,19 @@
+{
+  "entreprises": [
+    {
+      "id": 1,
+      "nom": "test",
+      "email": "test@gmail.com",
+      "telephone": "04 76 25 78 15",
+      "domaine": "mode",
+      "password": "test",
+      "password_repeat": "test"
+    }
+  ],
+
+  "influenceur": [
+    {
+     
+    }
+  ]
+}
